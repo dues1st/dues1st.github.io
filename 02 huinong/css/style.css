@@ -1,0 +1,55 @@
+    body{
+        background-image:url(../images/beijing.png) ;
+        background-size: 100%;
+    }
+    .b1{
+     color: cadetblue;
+     margin-top: 40px;
+     height: 50px;
+    margin-left: 130px;}
+
+     .b2{
+         color: lightcoral;
+         margin-left: 130px;
+     }
+    .p1{
+     color: slategray;
+     width: 800px;
+     text-indent: 2em;
+     margin-top: 30px;
+     margin-left: 130px;
+     line-height: 30px;
+    }
+    .p2{
+        color: slategray;
+        width: 800px;
+        text-indent: 2em;
+        margin-top: 30px;
+        margin-left: 130px;
+        line-height: 30px;
+       }
+    .b4{
+        color: lightcoral;
+        margin-top: 100px;
+        margin-left:180px;
+
+    }
+    .b5{
+        color: lightcoral;
+        margin-left: 180px;
+    }
+    table{
+        color: snow;
+        margin-left: 1000px;
+        margin-top: -460px;
+        height: 200px;
+       border-spacing: 100px;
+       font-size: 20px;
+    }
+    .b6{
+        font-weight: 1920px;
+        text-align: center;
+        font-size: 10px;
+        color: black;
+        margin-top: 100px;
+    }
