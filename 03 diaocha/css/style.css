@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+    background-color:#f5f5f5;
+}
+
+table{
+    width:800 px;
+    background-color:#fff;
+    margin: 0 auto;
+    font-size: 16px;
+    font-weight: bold;
+}
+  h1{
+      font-size: 25px;
+      text-align: center;
+  } 
+tr{
+    height: 50px;
+}
+td{
+    padding-left: 40px;
+    
+}
+.anniu1{
+    width:90px;
+    color: #fff;;
+    border-radius: 30px;
+    background-color:#86b833 ;
+    line-height: 40px;
+    font-weight: bold;
+   border: 0mm;
+   margin-left: 150px;
+}
+.anniu2{
+    width:90px;
+    color: #fff;;
+    border-radius: 30px;
+    background-color:#86b833 ;
+    line-height: 40px;
+   margin-left: -300px;
+    font-weight: bold;
+   border: 0mm;
+}
+.anniu1:hover{
+background-color:#669911;
+}
+.anniu2:hover{
+    background-color:#669911;
+    }
+p{
+    font-size: 10px;
+    text-align: center;
+
+}
